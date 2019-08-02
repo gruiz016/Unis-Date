@@ -1,5 +1,5 @@
 #nav-text {
-    font-size: 250%;
+    font-size: 300%;
     font-family: "Hobeaux";
     color: rgb(0, 0, 0);
 }
@@ -13,12 +13,21 @@ body{
     color:#fff;
     background-color: rgb(108, 28, 132);
     border-color:#fff;
+    font-size: 160%;
 }
 
 .jumbotron {
     background-color: rgb(211, 52, 121);
 }
 
-.login-phone {
-    max-width: 100%;
+h1 {
+    font-size: 250%;
 }
+
+ #coming-soon {
+     font-size: 150%;
+ }
+ 
+ #adriod {
+     max-width: 100%;
+ }
