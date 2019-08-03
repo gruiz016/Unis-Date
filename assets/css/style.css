@@ -1,5 +1,5 @@
 body {
-    padding: 130px 0px 0px 0px;
+    padding: 150px 0px 0px 0px;
 }
 .jumbotron {
     background-color: rgb(211, 52, 121);
@@ -21,11 +21,7 @@ body {
 
 .ft {
     font-size: 300%;
-    text-decoration: underline;
-}
-
-.bg-ft {
-    background-color: rgb(255, 238, 245);
+    /* text-decoration: underline; */
 }
 
 .card {
