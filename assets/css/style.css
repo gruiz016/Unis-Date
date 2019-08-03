@@ -1,33 +1,16 @@
-#nav-text {
-    font-size: 300%;
-    font-family: "Hobeaux";
-    color: rgb(0, 0, 0);
+body {
+    padding: 130px 0px 0px 0px;
 }
-
-body{
-    padding:100px 0px 0px 0px;
-    z-index:0;
-}
-
-#sign-up {
-    color:#fff;
-    background-color: rgb(108, 28, 132);
-    border-color:#fff;
-    font-size: 160%;
-}
-
 .jumbotron {
     background-color: rgb(211, 52, 121);
 }
 
-h1 {
-    font-size: 250%;
-}
-
- #coming-soon {
-     font-size: 150%;
+ .download-logo {
+     height: 100px;
+     width: 200px;
  }
- 
- #adriod {
-     max-width: 100%;
+
+ .driod-logo {
+     height: 100px;
+     width: 100px;
  }
