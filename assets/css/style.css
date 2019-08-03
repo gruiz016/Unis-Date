@@ -14,3 +14,20 @@ body {
      height: 100px;
      width: 100px;
  }
+
+.img-ft {
+    max-width: 15%;
+}
+
+.ft {
+    font-size: 300%;
+    text-decoration: underline;
+}
+
+.bg-ft {
+    background-color: rgb(255, 238, 245);
+}
+
+.card {
+    border: none;
+}
